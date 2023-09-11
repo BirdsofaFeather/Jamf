@@ -7,6 +7,7 @@ Inventory display : Operating System
 Input Type : Script 
 
 At the next recon of a Mac take a look at what we find in a computer’s inventory.
+
 ![What is this](uptime_ea.webp)
 
 Now, go in ⚙️ > Inventory Display > Extension Attributes. Check uptime.
